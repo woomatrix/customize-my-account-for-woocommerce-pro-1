@@ -1,0 +1,14 @@
+<wpml-config>
+    
+    <admin-texts>
+        <key name="wcmamtx_plugin_options"/>   
+        <key name="wcmamtx_advanced_settings"/>
+        <key name="wcmamtx_order_settings"/>        
+        <key name="wcmamtx_order_actions"/>      
+        <key name="wcmamtx_download_columns"/>         
+        <key name="wcmamtx_license_settings"/>   
+        <key name="syscmafwpl_additional_settings"/>   
+        <key name="syscmafwpl_extra_settings"/>
+        <key name="syscmafwpl_forms_settings"/>     
+    </admin-texts>
+</wpml-config>
